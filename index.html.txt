@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 changes in master
 =======
 second line in branch2
 >>>>>>> newbranch2
+=======
+fourth line in branch4
+>>>>>>> newbranch3
