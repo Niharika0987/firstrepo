@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello world
 =======
 line added in second branch
@@ -7,3 +8,6 @@ line added in second branch
 =======
 second line in branch2
 >>>>>>> nwbr2
+=======
+line added in third branch
+>>>>>>> nwbr3
