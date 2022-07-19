@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-hello world
-=======
-line added in second branch
->>>>>>> nwbr1
-=======
-second line in branch2
->>>>>>> nwbr2
-=======
-line added in third branch
->>>>>>> nwbr3
-=======
-line added in fourth branch
->>>>>>> nwbr4
+
+hello world line added in second branch second line in branch2 line added in third branch line added in fourth branch
+
