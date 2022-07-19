@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes in master
+=======
+second line in branch2
+>>>>>>> newbranch2
