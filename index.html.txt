@@ -1,1 +1,1 @@
-second line in branch2
+[A[Bthird line in branch3
